@@ -33,5 +33,7 @@ void ALanten::SetupPlayerInputComponent(class UInputComponent* InputComponent)
 	//THIS IS TESTING FOR COOL GIT
 
 	//BUT THIS IS EVEN COOLER
+
+	//BALDER IS NOT AS COOL AS THIS
 }
 
