@@ -79,6 +79,8 @@ ipch/
 *.opensdf
 *.sdf
 *.cachefile
+*.VC.db
+*.VC.opendb
 
 # Visual Studio profiler
 *.psess
@@ -318,6 +320,8 @@ $RECYCLE.BIN/
 *.suo
 *.opensdf
 *.sdf
+*.VC.db
+*.VC.opendb
 
 # Precompiled Assets
 SourceArt/**/*.png
