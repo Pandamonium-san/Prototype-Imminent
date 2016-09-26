@@ -31,5 +31,7 @@ void ALanten::SetupPlayerInputComponent(class UInputComponent* InputComponent)
 {
 	Super::SetupPlayerInputComponent(InputComponent);
 	//THIS IS TESTING FOR COOL GIT
+
+	//BUT THIS IS EVEN COOLER
 }
 
